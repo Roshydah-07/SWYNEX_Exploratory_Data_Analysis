@@ -17,7 +17,7 @@ To establish an operational baseline, key performance indicators were calculated
 
 ### 3. Visualizations & Visual Evidence
 The following visual artifacts have been generated from Excel Pivot Tables and added to the repository:
-* `images/kpi_summary.png`: Summary view of high-level KPIs and qualitative insights.
-* `images/revenue_by_item.png`: Bar chart breakdown of sales volume and item distribution.
-* `images/location_distribution.png`: Donut chart illustrating channel breakdown between In-Store and Takeaway orders.
-* `images/aov_by_payment.png`: Column chart displaying average order value per payment method.
+* kpi_summary: Summary view of high-level KPIs and qualitative insights.
+* revenue_by_item: Bar chart breakdown of sales volume and item distribution.
+* location_distribution: Donut chart illustrating channel breakdown between In-Store and Takeaway orders.
+* aov_by_payment: Column chart displaying average order value per payment method.
